@@ -1,6 +1,6 @@
 ---
 title: Practical Machine Learning Project Report
-author: "by Hongzheng Wang"
+author: "by Diwakar E Reddy"
 output:
   html_document:
     fig_height: 9
